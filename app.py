@@ -6,7 +6,7 @@ import pandas as pd
 # PAGE CONFIG
 # ==================================================
 st.set_page_config(
-    page_title="Kalkulator Timbangan Zat Kimia",
+    page_title="Kalkulator ChemWeight",
     page_icon="🧪",
     layout="wide"
 )
